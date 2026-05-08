@@ -162,7 +162,6 @@ To gain a better understanding of the models, metrics, and validation method use
 * Rishav Srivastav
 * Shubham Gupta
 
-<img src="https://user-images.githubusercontent.com/45646480/233836824-13a268e7-9464-46df-95bd-1ee8631519a8.jpg" data-canonical-src="https://user-images.githubusercontent.com/45646480/233836824-13a268e7-9464-46df-95bd-1ee8631519a8.jpg" width="540" />
 
 
 
