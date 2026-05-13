@@ -161,6 +161,7 @@ To gain a better understanding of the models, metrics, and validation method use
 
 * Rishav Srivastav
 * Shubham Gupta
+* BHAKHAR TEJ MAGANBHAI
 
 
 
